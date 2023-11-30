@@ -1,4 +1,24 @@
-theme: "PaperMod"
 title: 'Maximilian Rüsch'
 baseURL: 'https://maximilianruesch.de/'
 languageCode: 'en-us'
+
+theme: "PaperMod"
+params:
+  profileMode:
+    enabled: true
+    title: "Maximilian Rüsch" # optional default will be site title
+    subtitle: "<subtitle>"
+    imageUrl: "max.png" # optional
+    imageTitle: me # optional
+    imageWidth: 400 # custom size
+    imageHeight: " " # custom size
+    buttons:
+      - name: Publications
+        url: "/publications"
+        draft: true
+
+  socialIcons: # optional
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/maximilianruesch/"
+    - name: "GitHub"
+      url: "https://github.com/maximilianruesch"
