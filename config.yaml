@@ -12,10 +12,6 @@ params:
     imageTitle: me # optional
     imageWidth: 400 # custom size
     imageHeight: " " # custom size
-    buttons:
-      - name: Publications
-        url: "/publications"
-        draft: true
 
   socialIcons: # optional
     - name: "LinkedIn"
