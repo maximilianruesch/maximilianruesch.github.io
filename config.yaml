@@ -6,6 +6,12 @@ theme: "PaperMod"
 params:
   ShowBreadCrumbs: true
 
+  assets:
+    favicon: '/icons/favicon.ico'
+    favicon16x16: '/icons/favicon-16x16.png'
+    favicon32x32: '/icons/favicon-16x16.png'
+    apple_touch_icon: '/icons/apple-touch-icon.png'
+
   profileMode:
     enabled: true
     title: "Maximilian Rüsch" # optional default will be site title
