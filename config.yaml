@@ -4,6 +4,8 @@ languageCode: 'de-DE'
 
 theme: "PaperMod"
 params:
+  ShowBreadCrumbs: true
+
   profileMode:
     enabled: true
     title: "Maximilian Rüsch" # optional default will be site title
@@ -12,9 +14,20 @@ params:
     imageTitle: me # optional
     imageWidth: 400 # custom size
     imageHeight: " " # custom size
+    buttons:
+      - name: Publications
+        url: "/publications"
+        draft: true
 
   socialIcons: # optional
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/maximilianruesch/"
     - name: "GitHub"
       url: "https://github.com/maximilianruesch"
+
+menu:
+  main:
+    - identifier: publications
+      name: Publications
+      url: /publications
+      weight: 10
