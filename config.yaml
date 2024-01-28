@@ -37,3 +37,7 @@ menu:
       name: Publications
       url: /publications
       weight: 10
+    - identifier: projects
+      name: Personal Projects
+      url: /projects
+      weight: 20
