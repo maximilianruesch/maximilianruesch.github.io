@@ -16,9 +16,9 @@ params:
     enabled: true
     title: "Maximilian Rüsch" # optional default will be site title
     subtitle: "<subtitle>"
-    imageUrl: "max.png" # optional
+    imageUrl: "max.jpg"
     imageTitle: me # optional
-    imageWidth: 400 # custom size
+    imageWidth: 300 # custom size
     imageHeight: " " # custom size
     buttons:
       - name: Publications
