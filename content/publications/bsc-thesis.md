@@ -10,6 +10,7 @@ cover:
     image: '/publications/bsc-thesis/title-picture.png'
 katex: true
 markup: 'mmark'
+summary: "Thesis Project about quantifying quantum correlations in few body systems using sector lengths"
 ---
 
 Analyzing the correlation structure of quantum systems is central to understanding their behaviour.

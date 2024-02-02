@@ -1,10 +1,22 @@
 title: 'Maximilian Rüsch'
 baseURL: 'https://maximilianruesch.de/'
-languageCode: 'de-DE'
+languageCode: 'en-GB'
 
 theme: "PaperMod"
 params:
   ShowBreadCrumbs: true
+
+  author: "Maximilian Rüsch"
+  description: "Personal homepage displaying my projects, publications and other achievements"
+  keywords:
+    - maximilianruesch
+    - maximilianrüsch
+    - maxruesch
+    - maxrüsch
+    - max
+    - ruesch
+    - rüsch
+    - sector lengths
 
   assets:
     favicon: '/icons/favicon.ico'
