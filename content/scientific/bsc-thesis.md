@@ -3,11 +3,11 @@ title: "BSc Thesis - Numerical bounds on few body sector-lengths"
 draft: false
 author: "Maximilian Rüsch"
 date: 2023-11-22
-pdf: https://maximilianruesch.de/publications/bsc-thesis/bsc-thesis.pdf
+pdf: https://maximilianruesch.de/scientific/bsc-thesis/bsc-thesis.pdf
 language: en
 cover:
     alt: 'Cover picture of the thesis'
-    image: '/publications/bsc-thesis/title-picture.png'
+    image: '/scientific/bsc-thesis/title-picture.png'
 katex: true
 markup: 'mmark'
 summary: "Thesis Project about quantifying quantum correlations in few body systems using sector lengths"
