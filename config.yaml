@@ -17,6 +17,9 @@ params:
     - ruesch
     - rüsch
     - sector lengths
+    - pyzx
+    - faultgadgets
+    - fault-gadgets
 
   assets:
     favicon: '/icons/favicon.ico'
