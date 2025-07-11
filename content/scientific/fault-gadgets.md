@@ -4,6 +4,9 @@ draft: false
 author: "Maximilian Rüsch"
 date: 2025-07-11
 language: en
+cover:
+  alt: 'Logo for fault gadgets'
+  image: '/scientific/fault-gadgets/title-picture.png'
 markup: 'mmark'
 summary: "A library developed during the masters thesis, facilitating comprehensive modeling of faults on ZX-diagrams. Key features include checking fault-equivalence of rewrites and constructing the tanner graph of diagrams."
 ---
