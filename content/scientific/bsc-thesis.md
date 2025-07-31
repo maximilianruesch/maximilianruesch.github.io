@@ -21,4 +21,4 @@ For this purpose, tools from differential geometry are introduced to optimize ov
 Additionally, we numerically investigate and support a given conjecture of a threshold $n_0$ after which correlations are upper bounded by $\binom{n}{k}$.
 We obtain results for the investigation of this threshold $n_0$ and if it can be discovered using the subsets of pure states.
 
-[Download PDF](/publications/bsc-thesis/bsc-thesis.pdf)
+[Download PDF](/scientific/bsc-thesis/bsc-thesis.pdf)
